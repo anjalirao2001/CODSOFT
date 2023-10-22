@@ -114,7 +114,7 @@ section{
 .home .image img {
   height: 50rem;
   width: 40rem;
-  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  border-radius: 50%;
   border-style: groove;
 }
 
