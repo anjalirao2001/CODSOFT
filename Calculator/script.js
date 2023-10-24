@@ -4,7 +4,7 @@
 const nums = document.querySelectorAll(".num");
 const typed = document.querySelector(".type");
 const result = document.querySelector(".result");
-
+ 
 // Initialize a variable to store the current input expression.
 let val = "0";
 
